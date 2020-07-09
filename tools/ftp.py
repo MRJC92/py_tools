@@ -4,6 +4,8 @@ from pyftpdlib.authorizers import DummyAuthorizer
 from pyftpdlib.handlers import FTPHandler
 from pyftpdlib.servers import FTPServer
 
+#搭建一个ftp服务器
+
 def main():
     # Instantiate a dummy authorizer for managing 'virtual' users
     authorizer = DummyAuthorizer()
