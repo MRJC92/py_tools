@@ -39,14 +39,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/leetcode相关/课件" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/课件" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lic\PycharmProjects\py_tools\leetcode相关\课件" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Lic\PycharmProjects\py_tools\tools" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lic\PycharmProjects\py_tools\课件" />
+      <recent name="C:\Users\Lic\PycharmProjects\py_tools\leetcode相关\课件" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -74,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594257773600</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="comment">
+      <created>1594452324402</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594452324402</updated>
+    </task>
+    <task id="LOCAL-00004" summary="comment">
+      <created>1594452407402</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594452407402</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,15 +102,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comment" />
     <option name="LAST_COMMIT_MESSAGE" value="comment" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="505" y="260" key="Vcs.Push.Dialog.v2" timestamp="1594257788292">
+    <state x="505" y="260" key="Vcs.Push.Dialog.v2" timestamp="1594452431613">
       <screen x="0" y="0" width="1857" height="1080" />
     </state>
-    <state x="505" y="260" key="Vcs.Push.Dialog.v2/0.0.1857.1080@0.0.1857.1080" timestamp="1594257788292" />
+    <state x="505" y="260" key="Vcs.Push.Dialog.v2/0.0.1857.1080@0.0.1857.1080" timestamp="1594452431613" />
   </component>
 </project>
